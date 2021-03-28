@@ -6,7 +6,7 @@
 	path = _quotes
 	url = https://github.com/pibook/_quotes.git
 	branch = master
-	[submodule "_notes"]
+[submodule "_notes"]
 	path = _notes
 	url = https://github.com/pibook/notes.git
 	branch = master
