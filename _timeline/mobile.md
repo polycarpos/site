@@ -14,5 +14,6 @@ events:
   - olpc-classroom
   - apple-iphone
   - wearable
+  - iphone
 ---
 
