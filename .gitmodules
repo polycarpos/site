@@ -13,6 +13,8 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/polycarpos/_gallery.git
+	branch = master
 [submodule "images"]
 	path = images
 	url = https://github.com/polycarpos/images.git
+	branch = master
