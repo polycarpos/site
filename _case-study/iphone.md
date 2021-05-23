@@ -11,4 +11,4 @@ tags:
   - smartphones
 ---
 
-{% include extras/cs-gis.md %}
+{% include extras/cs-iphone.md %}
