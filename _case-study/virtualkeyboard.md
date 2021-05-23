@@ -7,8 +7,8 @@ categories:
   - Μελέτη Περίπτωσης
   - Εργαλεία
 tags:
-  - technology
-  - keyboard
+  - Technology
+  - Keyboard
 ---
 
-{% include extras/cs-virtualkeyboard.md %}
+{% include extras/bio-virtualkeyboard.md %}
