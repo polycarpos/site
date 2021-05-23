@@ -23,3 +23,6 @@
 	path = images
 	url = https://github.com/polycarpos/images.git
 	branch = master
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/polycarpos/extras.git
