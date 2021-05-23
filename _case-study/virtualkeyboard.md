@@ -11,4 +11,4 @@ tags:
   - keyboard
 ---
 
-{% include extras/cs-gis.md %}
+{% include extras/cs-virtualkeyboard.md %}
