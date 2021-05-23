@@ -1,7 +1,7 @@
 ---
 author: polycarpos
 title: VICTORIACARRINGTON
-image_url: /images/victoria-carrington.jpg
+image_url: /images/victoria-carrington.png
 caption: "‘There’s No Going Back’. Roxie’s IPhone®: An Object Ethnography"
 categories:
   - Βιογραφία
